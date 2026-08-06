@@ -1,0 +1,264 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "puji",
+      "email": "pujitha@gmail.com",
+      "password": "puji123"
+    },
+    {
+      "name": "liki",
+      "email": "liki@gmail.com",
+      "password": "liki123",
+      "id": "Fx8T3puNduQ"
+    },
+    {
+      "name": "mani",
+      "email": "manipalu@gmail.com",
+      "password": "mani123",
+      "id": "tjq3n3EOcA8"
+    },
+    {
+      "name": "mani",
+      "email": "manipalu@gmail.com",
+      "password": "mani123",
+      "id": "5rIXJCc9Cfc"
+    },
+    {
+      "name": "",
+      "email": "pujithapalli3@gmail.com",
+      "password": "pujitha",
+      "id": "6REmVAxw3e0"
+    },
+    {
+      "name": "Pujitha Palli",
+      "email": "pujithapalli3@gmail.com",
+      "password": "puji123",
+      "id": "lrutiSpMqZQ"
+    },
+    {
+      "name": "puji",
+      "email": "pujithapalli3@gmail.com",
+      "password": "puji123",
+      "id": "6nDcWcjJkCk"
+    },
+    {
+      "name": "mani",
+      "email": "manipalu@gmail.com",
+      "password": "mani123",
+      "id": "716SI7i1cu0"
+    }
+  ],
+  "grocerys": [
+    {
+      "id": "2",
+      "name": "Milk",
+      "category": "Dairy",
+      "brand": "Amul",
+      "price": 60,
+      "rating": 4.6,
+      "quantity": "1 L",
+      "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150",
+      "description": "Fresh full cream milk."
+    },
+    {
+      "id": "3",
+      "name": "Eggs",
+      "category": "Poultry",
+      "brand": "Farm Fresh",
+      "price": 90,
+      "rating": 4,
+      "quantity": "12 Pieces",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIRH2ejOhXg5uwMB2y7aWLf3Ixs2qYAOa59TWYQ9vGtRT7vxnPK0esIUb&s=10",
+      "description": "Fresh farm eggs."
+    },
+    {
+      "id": "4",
+      "name": "Tomatoes",
+      "category": "Vegetables",
+      "brand": "Fresh Farm",
+      "price": 40,
+      "rating": 4.3,
+      "quantity": "1 kg",
+      "image": "https://images.unsplash.com/photo-1546094096-0df4bcaaa337",
+      "description": "Fresh tomatoes."
+    },
+    {
+      "id": "5",
+      "name": "Apples",
+      "category": "Fruits",
+      "brand": "Kashmir Fresh",
+      "price": 180,
+      "rating": 4.9,
+      "quantity": "1 kg",
+      "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6",
+      "description": "Fresh apples."
+    },
+    {
+      "id": "6",
+      "name": "Sunflower Oil",
+      "category": "Cooking Oil",
+      "brand": "Fortune",
+      "price": 190,
+      "rating": 4.9,
+      "quantity": "1 L",
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5",
+      "description": "Refined sunflower oil."
+    },
+    {
+      "id": "7",
+      "name": "Sugar",
+      "category": "Essentials",
+      "brand": "Madhur",
+      "price": 55,
+      "rating": 4.55,
+      "quantity": "1 kg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDZv5qPdy8f9yLfJc9NYSc9heAa_Dj0PiuFo70BebFQ&s=10",
+      "description": "Refined sugar."
+    },
+    {
+      "id": "8",
+      "name": "Wheat Flour",
+      "category": "Grains",
+      "brand": "Aashirvaad",
+      "price": 260,
+      "rating": 4.3,
+      "quantity": "5 kg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS19JY802fb0l9TosulG35wK1bzUo329BBFuH11tXojM3lbkV3o0tz3itI&s=10",
+      "description": "Whole wheat flour."
+    },
+    {
+      "id": "9",
+      "name": "Salt",
+      "category": "Essentials",
+      "brand": "Tata",
+      "price": 30,
+      "rating": 4.4,
+      "quantity": "1 kg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnLZpGRjEUe-x_L8CYDSEopqJxxA4l2srAGoaUWmHKWA&s=10",
+      "description": "Iodized salt."
+    },
+    {
+      "id": "10",
+      "name": "Tea Powder",
+      "category": "Beverages",
+      "brand": "Taj Mahal",
+      "price": 250,
+      "rating": 4.6,
+      "quantity": "500 g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeDRLlwWtRgqSV7dQ3ugd5PcxjXDNJiQZVUoSdcVeVxQ&s=10",
+      "description": "Premium tea powder."
+    },
+    {
+      "id": "11",
+      "name": "Coffee",
+      "category": "Beverages",
+      "brand": "Bru",
+      "price": 320,
+      "rating": 4.5,
+      "quantity": "200 g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQ-2gxySKLRDTZ97tS8vjhDgHysp6YYKD23DOrusQmA&s=10",
+      "description": "Instant coffee."
+    },
+    {
+      "id": "12",
+      "name": "Butter",
+      "category": "Dairy",
+      "brand": "Amul",
+      "price": 120,
+      "rating": 4.2,
+      "quantity": "500 g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0EUi8DSK0sAmHeggERqiTRzC3zdhu6a5s9fpOCgjXIQ&s=10",
+      "description": "Fresh butter."
+    },
+    {
+      "id": "13",
+      "name": "Cheese",
+      "category": "Dairy",
+      "brand": "Britannia",
+      "price": 180,
+      "rating": 4.1,
+      "quantity": "200 g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVvo8H2LLiG-ryPlXjyliqlAjGviEyj1MLJXC-h6s7Zw&s=10",
+      "description": "Cheddar cheese."
+    },
+    {
+      "id": "14",
+      "name": "Bananas",
+      "category": "Fruits",
+      "brand": "Local Farm",
+      "price": 60,
+      "rating": 4,
+      "quantity": "1 Dozen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT_066KrtFps_hIh6uox1N2FM4Wf3DBaKFsaTVUbi4Cg&s=10",
+      "description": "Fresh bananas."
+    },
+    {
+      "id": "15",
+      "name": "Oranges",
+      "category": "Fruits",
+      "brand": "Nagpur",
+      "price": 140,
+      "rating": 3.7,
+      "quantity": "1 kg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBEbr1fyOx8dryITu-F_VgFaLWIjqr6as27HGXl3l1Zg&s=10",
+      "description": "Sweet oranges."
+    },
+    {
+      "id": "16",
+      "name": "Potatoes",
+      "category": "Vegetables",
+      "brand": "Fresh Farm",
+      "price": 35,
+      "rating": 3.9,
+      "quantity": "1 kg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1XUl7zOyWjRHv-JDi199jdH7Gp55LAZ5lsZ2-ZLeiDg&s=10",
+      "description": "Fresh potatoes."
+    },
+    {
+      "id": "17",
+      "name": "Onions",
+      "category": "Vegetables",
+      "brand": "Fresh Farm",
+      "price": 45,
+      "rating": 4.1,
+      "quantity": "1 kg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDEM7L0kSmq1_TTTG43yiqX8rj2Tq_OH174XIMJoRPQ&s=10",
+      "description": "Fresh onions."
+    },
+    {
+      "id": "18",
+      "name": "Biscuits",
+      "category": "Snacks",
+      "brand": "Parle-G",
+      "price": 20,
+      "rating": 4.7,
+      "quantity": "250 g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe2FulBrdEFxOnNC7mSbegCNo6EVIeJmJY1FUAY0rwvA&s=10",
+      "description": "Crunchy biscuits."
+    },
+    {
+      "id": "19",
+      "name": "Noodles",
+      "category": "Snacks",
+      "brand": "Maggi",
+      "price": 15,
+      "rating": 4.3,
+      "quantity": "70 g",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TNWqsIpLXEnDrhONhEJPEIE6jAeKc7IFTxATyyWAVA&s=10",
+      "description": "Instant noodles."
+    },
+    {
+      "id": "20",
+      "name": "Orange Juice",
+      "category": "Beverages",
+      "brand": "Real",
+      "price": 110,
+      "rating": 4.7,
+      "quantity": "1 L",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1itZlKwjIoXQ7F7pWHYMgRF4Fv5M5Z-zqcudJyHpPCA&s",
+      "description": "Fruit juice."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
