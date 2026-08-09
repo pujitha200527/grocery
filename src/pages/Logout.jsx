@@ -12,6 +12,7 @@ function Logout() {
     navigate("/login");
 
     window.location.reload();
+    
 
   }, []);
 
